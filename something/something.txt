@@ -1,0 +1,22 @@
+the center of attraction of the git are those commands 
+
+GIt ~
+
+git config                            :configrationlist
+git config --global --list 
+git config --global user.name "name"
+git config --global user.email "eamil"
+
+git init -b main
+git status
+git add filename (.)
+git rm --cached filename       b4del 
+git log
+git commit -m "message"
+
+git clone url
+git branch -M main
+ssh-keygen -o 
+git remote add origin  git 
+git push -u origin main
+git push origin main 
